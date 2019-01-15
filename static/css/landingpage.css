@@ -1,0 +1,10 @@
+
+.external {
+  all: initial;
+  font-size: 30px;
+
+}
+
+.external p {
+  color: #00AABB;
+}
